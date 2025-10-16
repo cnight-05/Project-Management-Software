@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2025\\ASPNet_Core\\baitap\\BT_XL_IMG\\",
+  "WorkspaceRootPath": "D:\\Project-Management-Software\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|d:\\2025\\aspnet_core\\baitap\\bt_xl_img\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|d:\\project-management-software\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|d:\\2025\\aspnet_core\\baitap\\bt_xl_img\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|d:\\project-management-software\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|d:\\project-management-software\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|d:\\2025\\aspnet_core\\baitap\\bt_xl_img\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|d:\\project-management-software\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD0DD163-533C-4321-A410-6E92A5129666}|BT_XL_IMG.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,58 +26,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project-Management-Software\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project-Management-Software\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:11:19.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\2025\\ASPNet_Core\\baitap\\BT_XL_IMG\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Project-Management-Software\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\2025\\ASPNet_Core\\baitap\\BT_XL_IMG\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Project-Management-Software\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-15T06:37:56.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\2025\\ASPNet_Core\\baitap\\BT_XL_IMG\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Project-Management-Software\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\2025\\ASPNet_Core\\baitap\\BT_XL_IMG\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Project-Management-Software\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T06:36:49.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:36:49.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\2025\\ASPNet_Core\\baitap\\BT_XL_IMG\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Project-Management-Software\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\2025\\ASPNet_Core\\baitap\\BT_XL_IMG\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Project-Management-Software\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T06:36:00.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:36:00.911Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
